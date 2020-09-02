@@ -16,7 +16,6 @@ public class ReadWriteObject {
         myObject.setInteger(1);
         System.out.println(myObject.getInteger());
 
-
     }
 
 }

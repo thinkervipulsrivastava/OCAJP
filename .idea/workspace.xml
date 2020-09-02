@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45abfd49-643b-4622-add7-1dd406f1443c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ImportStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadWriteObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadWriteObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gqySrOFxaFteFxZDfGd9JR8kXW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,7 +33,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.WrapperClass">
+    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Casting" />
+      <module name="OCAJP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadWriteObject" />
+      <module name="OCAJP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scope" />
       <module name="OCAJP" />
@@ -39,8 +55,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrapperClass" />
+      <module name="OCAJP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperClass" />
+        <item itemvalue="Application.ReadWriteObject" />
+        <item itemvalue="Application.Casting" />
         <item itemvalue="Application.Scope" />
       </list>
     </recent_temporary>
@@ -56,32 +82,68 @@
       <option name="presentableId" value="Default" />
       <updated>1598856419484</updated>
     </task>
+    <task id="LOCAL-00001" summary="Widening and narrowing implementation">
+      <created>1598981601511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598981601511</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inside the Object read and write operation">
+      <created>1598981648106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598981648106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Widening and narrowing implementation" />
+    <MESSAGE value="Inside the Object read and write operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inside the Object read and write operation" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1598981646448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598981646448" />
     <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog" timestamp="1598858986349">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1598858986349" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598881634522">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598989785159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598881634522" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598881634522">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598989785159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598881634522" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598881634522">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598989785159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598881634522" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598881634522">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598989785159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598881634522" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598865239863">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598981528985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598865239863" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1598981528985" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599035256904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599035256904" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1598980153425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1598980153425" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598907344593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1598907344593" />
   </component>
 </project>
