@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45abfd49-643b-4622-add7-1dd406f1443c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElseSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReadWriteObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadWriteObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OCAJP/WrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OCAJP/WrapperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrapperClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.WrapperClass">
+  <component name="RunManager" selected="Application.IfElseSwitch">
     <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casting" />
       <module name="OCAJP" />
@@ -41,15 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReadWriteObject" />
+    <configuration name="Comparision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comparision" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scope" />
+    <configuration name="IfElseSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseSwitch" />
+      <module name="OCAJP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadWriteObject" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,10 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElseSwitch" />
+        <item itemvalue="Application.Comparision" />
         <item itemvalue="Application.WrapperClass" />
         <item itemvalue="Application.ReadWriteObject" />
         <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.Scope" />
       </list>
     </recent_temporary>
   </component>
@@ -113,30 +124,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1598858986349" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598989785159">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599209323616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598989785159">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599209323616" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599209323616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598989785159">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599209323616" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599209323616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598989785159">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599209323616" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599209323616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598989785159" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599209323616" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598981528985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1598981528985" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599035256904">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599187133187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599035256904" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599187133187" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1598980153425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

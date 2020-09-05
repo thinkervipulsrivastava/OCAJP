@@ -26,6 +26,5 @@ public class WrapperClass {
     public static void characterExample () {
         int codePoint = Character.codePointAt("OCAJP ", 2);
         System.out.println(codePoint);
-
     }
 }
