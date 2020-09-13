@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45abfd49-643b-4622-add7-1dd406f1443c" name="Default Changelist" comment="Inside the Object read and write operation">
-      <change afterPath="$PROJECT_DIR$/src/Object1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SuperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThisMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaExpressionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,37 +38,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Sub">
-    <configuration name="ObjectPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectPolymorphism" />
+  <component name="RunManager" selected="Application.LambdaExpressionDemo">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListDemo" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveObjectParameterPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimitiveObjectParameterPassing" />
+    <configuration name="Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticFieldMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticFieldMethodMain" />
+    <configuration name="LambdaExpressionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionDemo" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sub" />
+    <configuration name="StringBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBufferDemo" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThisMain" />
+    <configuration name="TryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatch" />
       <module name="OCAJP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sub" />
-        <item itemvalue="Application.ThisMain" />
-        <item itemvalue="Application.ObjectPolymorphism" />
-        <item itemvalue="Application.PrimitiveObjectParameterPassing" />
-        <item itemvalue="Application.StaticFieldMethodMain" />
+        <item itemvalue="Application.LambdaExpressionDemo" />
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.StringBufferDemo" />
+        <item itemvalue="Application.Exception" />
+        <item itemvalue="Application.TryCatch" />
       </list>
     </recent_temporary>
   </component>
@@ -131,30 +130,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="264" width="356" height="200" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1598858986349" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599639323920">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1599968949142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599639323920" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599639323919">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599968949142" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1599968949142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599639323919" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599639323919">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599968949142" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1599968949142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599639323919" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599639323920">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599968949142" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1599968949142">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599639323920" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599968949142" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1599968607472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599968607472" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1599968607472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599968607472" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1599968607472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599968607472" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1599968607472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599968607472" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598981528985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1598981528985" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599616374476">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599965107800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599616374476" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599965107800" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1598980153425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -167,5 +182,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599318840710" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/NumberComparator.java</url>
+          <line>1</line>
+          <properties class="NumberComparator" method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
